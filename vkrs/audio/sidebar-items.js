@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Genre",""]],"struct":[["Album",""],["Audio",""],["Get",""],["GetAlbums",""],["GetById",""],["GetCount",""],["GetLyrics",""],["GetPopular",""],["GetRecommendations",""],["Lyrics",""],["Search",""]]});

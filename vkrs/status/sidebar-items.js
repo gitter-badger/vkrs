@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Get",""],["Set",""],["Status",""]]});

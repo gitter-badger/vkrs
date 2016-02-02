@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["NameCase",""],["Radius",""],["ReportReason",""],["Sex",""],["Sort",""],["Status",""],["UserOptionField",""]],"struct":[["Get",""],["GetFollowers",""],["GetNearby",""],["GetSubscriptions",""],["IsAppUser",""],["Report",""],["Search",""],["User",""]]});

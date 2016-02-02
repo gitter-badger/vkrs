@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Bearer","The bearer token type."],["Expiring","An expiring token."],["Static","A static, non-expiring token."]],"trait":[["Lifetime","OAuth 2.0 token lifetimes."],["Token","OAuth 2.0 tokens."]]});
